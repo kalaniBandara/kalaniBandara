@@ -4,7 +4,7 @@
 - <h5>👀 I’m interested in Website Development.</h5>
 - <h5>🌱 I’m currently learning React and 3JS</h5>
 - <h5>💞️ I’m looking to collaborate on interesting projects</h5>
-- <h5>📫 You can reach me through [kalani.pb.kb@gmail.com](mailto:kalani.pb.kb@gmail.com)</h5>
+- <b>📫 You can reach me through [kalani.pb.kb@gmail.com](mailto:kalani.pb.kb@gmail.com)</b>
 📫 You can reach me through [kalani.pb.kb@gmail.com](mailto:kalani.pb.kb@gmail.com)
 
 
