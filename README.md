@@ -7,7 +7,7 @@
 <h3><p align="left">
   👋 Hi, I’m @kalaniBandara
 </p></h3>
-<h4>Software Engineer</h4>
+<h4>👩🏽‍💻 I'm a Software Engineer</h4>
 
 
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
